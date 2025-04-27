@@ -51,7 +51,7 @@ const DetectionForm = ({ detectionType }) => {
 
         try {
           const response = await fetch(
-            "https://rnjt9md2h1.execute-api.ap-south-1.amazonaws.com/prod/extract-text",
+            "your-api-key",
             {
               method: "POST",
               headers: { "Content-Type": "application/json" },
