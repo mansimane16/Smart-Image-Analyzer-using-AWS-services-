@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/078b42e6-9d53-4ce0-9d3e-a91ed63d2871)A web application to detect text, labels, and faces from images using AWS Rekognition, Translate, and Comprehend — with automatic translation support for text detection.
+A web application to detect text, labels, and faces from images using AWS Rekognition, Translate, and Comprehend — with automatic translation support for text detection.
 
 🚀 Features : 
 📄 Text Detection — Extracts readable text from images.
